@@ -1,0 +1,30 @@
+Gladiators
+
+Game idea: 
+	A man is thrown into a gladiator ring by the emperor and must fight his way out of there. He must defeat every opponent if he wants to see his family again.
+
+Scenario and characters description:
+	-Scenario: Our character(Gladiator), must stay alive whilst fighting a multitude of enemies
+	-Gladiator (Main Character):
+		* Actions: Walk, Run, Evade, Attack, Block
+		* Goal: Defeat all the enemies
+	-Emperor (Main Antagonist):
+		* Actions: Judges if the gladiator gets a second chance when defeated (Random Chance)
+		* Goal: Send enemies to defeat our Gladiator
+	-Enemies:
+		* Actions: Walk, Attack, Block (Sequences depending on health status)
+		* Goal: Defeat the gladiator
+
+Win/Lose conditions:
+	Win: if the Gladiator defeats all enemies
+	Lose: if he gets defeated and doesn't get a second chance
+
+Progression of levels:
+	As time progresses, the enemies will get harder and harder to defeat. To keep up, our Gladiator can equip some of the drops from the fallen enemies.
+
+Sources of inspiration:
+	-Movies: Gladiator
+	-Games: Swords and Sandals
+
+What skills/interests am I looking for in a teammate:
+	I am looking for someone who can visualize what I am going for and share the same interest in making the game. I am very open to ideas, especially when it comes to the visuals. As long as we all put some effort, I don't mind who my teammates are.
